@@ -1,0 +1,19 @@
+{
+  "publication_kind": "official-archive-import",
+  "imported_at": "2026-11-02",
+  "evidence": "https://safari.ethz.ch/architecture/fall2026/doku.php?id=labs",
+  "archives": [
+    {
+      "directory": "lab1",
+      "url": "https://safari.ethz.ch/architecture/fall2026/lib/exe/fetch.php?media=lab1-problem.zip",
+      "sha256": "7904d0905504e12433f51b3a93e100149c6c724aed0b50097587f3f56e907f4e",
+      "bytes": 114759
+    },
+    {
+      "directory": "lab2",
+      "url": "https://safari.ethz.ch/architecture/fall2026/lib/exe/fetch.php?media=problem-2.zip",
+      "sha256": "b34b52d180a4bbe51b1baef4ca13b3b7379a027a65b907ae82c46c26803fa89a",
+      "bytes": 54001
+    }
+  ]
+}
